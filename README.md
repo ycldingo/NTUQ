@@ -1,5 +1,5 @@
 # What is *NTU Q* ?
-The *NTU Q* is a bimonthly newsletter published by IBM Quantum Computer Hub at National Taiwan University since 2020. The newsleter contains improtant news related to quantum science in Taiwan and worldwide, announcement from IBM Quantum Computer Hub at NTU, selected coming events about quantum technologies and relevant interesting recent research. 
+The *NTU Q* is a bimonthly newsletter published by [IBM Quantum Computer Hub at National Taiwan University](https://uwaterloo.ca/institute-for-quantum-computing/quantum-computing-101#Superposition-and-entanglement) since 2020. The newsleter contains improtant news related to quantum science in Taiwan and worldwide, announcement from IBM Quantum Computer Hub at NTU, selected coming events about quantum technologies and relevant interesting recent research. 
 
 # Who edit *NTU Q* ?
 The chief editor of *NTU Q* Newsletter is me (Yun-Chih Liao). All work is supervised by Dr. Ching-Ray Chang in National Taiwan University, Taiwan, director of IBM Quantum Computer Hub at NTU.
